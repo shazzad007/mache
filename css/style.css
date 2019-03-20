@@ -1,0 +1,330 @@
+header{
+	background: url(../img/23.png) no-repeat;
+	background-size: cover;
+	padding-top: 20px;
+	padding-bottom: 140px;
+	color: #ffffffba;
+}
+
+.icon img{
+	padding-left: 85px;
+}
+
+li {
+    display: inline-block;
+    padding: 7px;
+    font-size: 12px;
+    padding-left: 19px;
+    color: #fff;
+}
+
+ul li a{
+    color: #fff;
+}
+
+.hp{
+	text-align: center;
+
+}
+
+.hp h2{
+	padding-top: 70px;
+	
+}
+
+span.dcc{
+	color:#FFFAFA;
+}
+
+span.underline{
+	border: .6px solid #ed145b;
+    display: block;
+    width: 15%;
+    margin: 18px;
+   margin-left: 470px;
+}
+
+.hp p{
+	font-size: 13px;
+	padding-bottom: 70px;
+}
+
+.btn{
+	background: #ed145b;
+    padding: 7px 25px;
+    font-size: 15px;
+    color: #fff;
+    border: 1px solid #ed145b;
+    border-radius: 30px;
+
+}
+
+.triangle{
+	border-top: 10px solid #d45d5d00;
+    border-bottom: 16px solid #d2303000;
+    border-left: 1349px solid #ed145b;
+    position: absolute;
+    top: 506px;
+}
+
+.About{
+	padding-top: 90px;
+	background: #f4f4f4;
+	height: 400px;
+}
+
+.vdo{
+	color: #ed145b;
+	font-size: 12px;
+
+}
+.col-md-7 img{
+	height: 96%;
+	width: 100%;
+	margin-left: 75px;
+}
+
+.lead{
+	font-size: 15px;
+}
+
+span.under{
+	border: .6px solid #ed145b;
+    display: block;
+    width: 25%;
+    margin: 18px 0px;
+   
+}
+
+.fa.fa-play-circle-o{
+	padding-left: 5px;
+	font-size: 15px;
+}
+
+.service {
+    padding: 80px 0px;
+    text-align: center;
+}
+
+.col-md-3{
+	padding-top: 40px;
+}
+
+.logo img{
+	width: 35%;
+    padding-bottom: 20px;
+
+}
+.logo h6{
+	font-size: 12px;
+	color: #ed145b;
+}
+
+.quatation{
+	background: url(../img/1.png) no-repeat;
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+	padding: 50px 0px;
+}
+
+
+.quo{
+	font-size: 75px;
+	color: #ed145b;
+}
+
+.Prices{
+	padding: 80px 0px;
+	background: #f4f4f4;
+	text-align: center;
+}
+
+.border-secondary {
+    border-color: #fff1!important;
+}
+
+.button2{
+	position: absolute;
+    text-align: center;
+    margin: -44px;
+    border-radius: 17px;
+    background: #f4f4f4;
+    padding: 8px 30px;
+    border: 1px solid #f4f4f4;
+    margin-left: -66px;
+    font-size: 13px
+}
+
+
+.card-header{
+	background: #5a5a5a;
+	height: 130px;
+	color: #fff;
+}
+
+.card-header2{
+	background: #ed145b;
+	height: 130px;
+	color: #fff;
+	padding-top: 10px;
+}
+
+span.dj{
+	font-size: 40px;
+
+}
+
+.feature{
+	padding-top: 80px;
+	padding-bottom: 70px;
+}
+
+.card-title{
+	color: #ed145b;
+	font-size: 16px;
+}
+
+.card-text{
+	text-align: justify;
+	font-size: 12px;
+}
+
+.card-pic img{
+	padding-left: 45px;
+}
+.cata{
+	margin-bottom: 45px;
+}
+
+.newletter{
+	background: #ed145b;
+	padding: 30px 0px;
+	text-align: center;
+	color: #ffffffe6;
+}
+
+.newletter h2 {
+    font-size: 30px;
+    display: inline-block;
+}
+.button{
+	background: #fff;
+	padding: 5px 30px;
+	font-size: 15px;
+	color: #ed145b;
+	border: 1px solid #ed145b;
+	border-radius: 30px;
+	display: inline-block;
+	margin-left: 25px;
+}
+
+.update{
+	padding: 50px 0px;
+}
+
+.card{
+	margin-bottom: 40px;
+}
+.card-body{
+	background: #fff;
+}
+.dd{
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.load{
+	font-size: 13px;
+}
+
+ h5{
+	text-align: center;
+	color: #ed145b;
+	
+}
+
+.card-img-toop{
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+
+.img-hover-content{
+	position: absolute;
+    top: 0;
+    width: 100%;
+    height: 63%;
+    background: #da215dbd;
+    color:#fff ;
+ }
+
+.img-hover-content i{
+	padding-top: 85px;
+    font-size: 30px;
+    padding-left: 115px;
+}
+ .card-img-toop:hover.img-hover-content{
+	left: 0;
+
+}
+
+.fa.fa-angle-down{
+	text-align: center;
+	color: #ed145b;
+	width: 10px;
+}
+
+.info{
+	background: url(../img/1.png) no-repeat;
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+	padding: 85px 0px;
+}
+
+.download{
+	padding: 60px 0px;
+	background: #f4f4f4;
+
+}
+
+.shots{
+	padding-top: 30px;
+}
+.screen img {
+    width: 97%;
+    height: 330px;
+}
+
+footer{
+	padding: 20px 0px;
+	background: #2b2b2b;
+	color: #fff;
+}
+
+.cp{
+	padding-left: 150px;
+}
+
+
+/* Media Quary */
+
+/*Mobile device*/
+@media (min-width:0px) (max-width: 500px){
+	.triangle {}
+
+}
+
+/*Tab and others*/
+@media (min-width: 501px) (max-width: 767px){
+
+}
+
+@media (min-width: 768px) (max-width: 1199px){
+
+}
+
+@media (min-width: 1200px) {
+
+}
